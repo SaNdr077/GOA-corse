@@ -1,0 +1,37 @@
+body{
+    background-image: url(image/really.jpg);
+}
+.cars {
+    border-radius: 50%;
+}
+.table1{
+    background-color: rgba(87, 48, 35, 0.404);
+}
+.audi{
+    color: red;
+}
+.mercedes{
+    color: red;
+}
+tr{
+    color: rgba(0, 97, 5, 0.836);
+    background-color: rgba(0, 255, 255, 0.767);
+}
+.head_row{
+    color: rgba(1, 58, 245, 0.856);
+    background-color: ;
+}
+a{
+    color: darkred;
+}
+
+div{
+    background-color: rgba(0, 255, 34, 0.26);
+}
+.old_cars{
+    border-radius: 80%;
+
+}
+h3{
+    color: red;
+}
