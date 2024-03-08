@@ -1,0 +1,98 @@
+body {
+    
+    background-color: rgba(0, 128, 0, 0.253);
+}
+.navigation{
+    
+}
+img{
+    border-radius: 20px;
+}
+.georgia{
+margin-right: 70%;
+}
+.main{
+    margin-right: 3%;
+}
+.authorization{
+    margin-right: 3%;
+}
+.heder1{
+    color: rgb(255, 0, 0);
+}
+.geo{
+    width: 650px;
+}
+.regions{
+    margin-left: 300px;
+}
+.signagi{
+    width: 600px;
+    height: 300px;
+}
+.rustavi{
+    width: 600px;
+    height: 300px;
+}
+.gori{
+    width: 600px;
+    height: 300px;
+}
+.akhaltsikhe{
+    width: 600px;
+    height: 300px;
+}
+.gagra{
+    width: 600px;
+    height: 300px;
+}
+.batumi{
+    width: 600px;
+    height: 300px;
+}
+.ozurgeti{
+    width: 600px;
+    height: 300px;
+}
+.mtskheta{
+    width: 600px;
+    height: 300px;
+}
+.ambrolauri{
+    width: 600px;
+    height: 300px;
+}
+.martvili{
+    width: 600px;
+    height: 300px;
+}
+.mestia{
+    width: 600px;
+    height: 300px;
+}
+.cxinvali{
+    width: 600px;
+    height: 300px;
+}
+.kutaisi{
+    width: 600px;
+    height: 300px;
+}
+
+
+.nav-footer{
+    width: 300px;
+    height: 300px;
+    
+}
+.help{
+    width: 300px;
+    height: 300px;
+    
+    
+}
+.statestic{
+    width: 300px;
+    height: 300px;
+    
+}

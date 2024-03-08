@@ -1,0 +1,37 @@
+body{
+    background-image: url(image/goa_chad.jpg);
+    
+}
+header{
+    background-color: rgba(0, 0, 0, 0.61);
+}
+.goa{
+ width: 100px;
+}
+.navigation{
+    margin-left: 80%;
+}
+a{
+    color: blue;
+}
+.main{
+    margin-right: 3%;
+    margin-top: 20px;
+}
+.registr{
+    margin-right: 3%;
+}
+h1{
+    color: white;
+}
+.luser{
+    color: white;
+    width: 50%;
+}
+.go{
+    margin-right: 10%;
+    color: white; 
+}
+.list{
+    color: white; 
+}

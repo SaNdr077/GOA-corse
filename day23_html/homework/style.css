@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(0, 100, 0, 0.39);
+}
+.navbar{
+    display: inline;
+    color: brown;
+    background-color: rgb(202, 104, 13);
+    border-radius: 10px;
+    
+}
+#main{
+    margin-left: 70%;
+
+}
+#register{
+    margin-left: 3%;
+}
+#sing-in{
+    margin-left: 3%;
+}
+#search{
+    margin-left: 3%;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+.hunt{
+    background-color: rgba(1, 87, 47, 0.678);
+}
+.fight{
+
+}
+.cold-weapon{
+    background-color: rgba(1, 58, 53, 0.678);
+}
+
+.hunting-gun{
+    width: 500px;
+    border-radius: 20px;
+
+}
+#huntgun{
+    width: 700px;
+}
