@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(48, 32, 32);
+    text-align: center;
+}
+#profile{
+    
+    color: #FFFFFF;
+}
+.activ-day{
+    color: #00CC00;
+}
+
+.inactiv-day{
+    color: #CCCCCC;
+}
+li{
+    list-style-type:none;
+    color: #ff0000;
+}

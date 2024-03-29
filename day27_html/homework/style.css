@@ -1,0 +1,94 @@
+.index_body{
+    background-color: rgba(6, 77, 145, 0.644);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_idnex{
+    background-image: url(image/car\ hd.jpg);
+    width: 100%;
+    border-radius: 3px;
+    height: 400px;
+}
+
+.navbar{
+    display: inline;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 10px;
+}
+
+#main{
+    margin-left: 3%;
+}
+
+#search{
+    margin-left:55%;
+}
+
+#registr{
+    margin-left: 3%;
+}
+#sing_in{
+    margin-left: 3%;
+}
+h2{
+    text-align: center;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 90px;
+}
+#nissan{
+    margin-left: 3%;
+}
+
+#toyota{
+    margin-left: 3%;
+}
+
+#scion{
+    margin-left: 3%;
+}
+
+#hyundai{
+    margin-left: 3%;
+}
+
+#mazda{
+    margin-left: 3%;
+}
+
+#honda{
+    margin-left: 3%;
+}
+
+/* style in regirtation */
+.img_registr{
+    width: 300px;
+}
+.body_registr{
+    background-color: dimgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.377);
+    width: 400px;
+    border-radius: 20px;
+}
+/* style in sing_in */
+.sing_body{
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sing_navbar{
+    margin-left: 90%;
+}

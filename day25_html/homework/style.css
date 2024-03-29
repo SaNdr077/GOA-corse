@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(210, 105, 30, 0.226);
+}
+.main{
+    background-color: rgba(0, 0, 255, 0.466);
+    width: 450px;
+    border-radius: 10px;
+}
+img{
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+}

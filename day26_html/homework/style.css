@@ -1,0 +1,79 @@
+body{
+    background-color: rgba(2, 252, 35, 0.644);
+}
+header{
+    background-image: url(image/header.jpg);
+}
+.navbar{
+    display: inline;
+    color: blue;
+}
+#goa{
+    background-color: rgb(129, 143, 6);
+    border-radius: 10px;
+    font-size: 40px;
+    color: blue;
+
+}
+#search{
+    margin-left: 750px;
+    
+}
+#registr{
+    margin-left: 30px;
+}
+#sing{
+    margin-left: 30px;
+    
+}
+.top_text{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+audio{
+    margin-left: 75%;
+}
+.header2{
+    text-align: center;
+}
+.img_goa{
+    width: 400px;
+    
+}
+video{
+    width: 600px;
+}
+h2{
+    text-align: center;
+}
+.paragraf{
+    width: 400Px;
+    margin-left: 35%;
+}
+.bold{
+    text-align: center;
+    font-size: 20px;
+}
+
+/* აქ რეგისტრაციის გვერდის გავსტილე */
+.registration{
+    text-align: center;
+    background-color: aqua;
+}
+.your_gend{
+    display: inline;
+}
+.img_reg{
+    border-radius: 40px;
+}
+/* აქ საიტზე შესასვლელი გვერდის გავსტილე */
+.sing_in{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+div{
+    background-color: rgba(0, 100, 0, 0.308);
+    width: 300px;
+    height: 400px;
+}

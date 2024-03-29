@@ -1,0 +1,32 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li a:hover{
+    color: blueviolet;
+   text-decoration: underline;
+    
+}
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+
+li a:visited{
+    color:green;
+    
+    
+}
+
+li a:active{
+    color:blue;
+    
+}
+
+p{
+    text-align:justify;
+    letter-spacing: 10px;
+    line-height: 100px;
+    word-spacing: 50px;
+    white-space:nowrap;
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>registartion</title>
+</head>
+<body>
+    <center>
+        <div class="main">
+            <header>
+                <h1>register</h1>
+            </header>
+            <img src="image/registration.jpg" alt="">
+            <!-- ვაკეთებ საიტყე რეგისტრაციის ფორმაც -->
+            <form action="">
+
+                <!-- აქ შეყავს სახელი -->
+                <div>
+                    <label for="name">entre your name:</label>
+                    <input id="name" type="text" placeholder="enter name*"  name="name" required>
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს გვარი -->
+                <div>
+                    <label for="last_name">enter your last name:</label>
+                    <input id="last_name" type="text" placeholder="enter last name*" required name="last_name">
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს მეილი -->
+                <div>
+                    <label for="mail">entre your email:</label>
+                    <input id="mail" type="email" placeholder="enter email*" required name="mail">
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს პაროლი -->
+                <div>
+                    <label for="pass">enter password</label>
+                    <input id="pass" type="password" placeholder="enter password*" required name="pass">
+                    <br>
+                    <br>
+                </div>
+
+                <!-- აქ შეყავს განმეორებით პაროლი -->
+                <div>
+                    <label for="repeat_pass">enter repeat password</label>
+                    <input id="repeat_pass" type="password" placeholder="enter repeat password*" required name="repeat_pass">
+                    <br>
+                </div>
+
+                <!-- აქ ირჩევს მომხმარებელი სქესს -->
+                <div>
+                    <label for="">male</label>
+                    <input id="male" type="radio" value="male" name="gender" required>
+                    <label for="famale">famale</label>
+                    <input id ="famale" type="radio" value="famale" name="gender" required>
+                    <br>
+                </div>
+
+                <!-- აქ შევქმებილ ღლაკები მონაცებების შეტანა და მონაცემების გასუფთავება -->
+                <div>
+                    <input type="submit">
+                    <input type="reset">
+                </div>
+            </div> 
+        </center>
+    </form>
+    <hr>
+</body>
+</html>

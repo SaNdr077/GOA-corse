@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>რეგისტარცია</title>
+</head>
+<body class="body_registr">
+    <nav>
+        <li class="navbar" id="sing_navbar"> <a href="sing_in.html">შესვლა</a></li>
+    </nav>
+    <center>
+        <div class="main">
+            <header class="header_registr">
+                <h1>რეგისტრაცია</h1>
+            </header>
+            <img src="image/ragistration.png" alt="" class="img_registr">
+            <!-- ვაკეთებ საიტყე რეგისტრაციის ფორმაც -->
+            <form action="">
+
+                <!-- აქ შეყავს სახელი -->
+                <div>
+                    <label for="name">შეიყვანეთ სახელი:</label>
+                    <input id="name" type="text" placeholder="enter name*"  name="name" required>
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს გვარი -->
+                <div>
+                    <label for="last_name">შეიყვანეთ გვარი:</label>
+                    <input id="last_name" type="text" placeholder="enter last name*" required name="last_name">
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს მეილი -->
+                <div>
+                    <label for="mail">შეიყვანეთ მეილი:</label>
+                    <input id="mail" type="email" placeholder="enter email*" required name="mail">
+                    <br>
+                    <br>
+                </div>
+                <!-- აქ შეყავს პაროლი -->
+                <div>
+                    <label for="pass">შეიყვანეთ პაროლი:</label>
+                    <input id="pass" type="password" placeholder="enter password*" required name="pass">
+                    <br>
+                    <br>
+                </div>
+
+                <!-- აქ შეყავს განმეორებით პაროლი -->
+                <div>
+                    <label for="repeat_pass">გაიმეორეთ პაროლი:</label>
+                    <input id="repeat_pass" type="password" placeholder="enter repeat password*" required name="repeat_pass">
+                    <br>
+                </div>
+
+                <!-- აქ ირჩევს მომხმარებელი სქესს -->
+                <div>
+                    <label for="">male</label>
+                    <input id="male" type="radio" value="male" name="gender" required>
+                    <label for="famale">famale</label>
+                    <input id ="famale" type="radio" value="famale" name="gender" required>
+                    <br>
+                </div>
+
+                <!-- აქ შევქმებილ ღლაკები მონაცებების შეტანა და მონაცემების გასუფთავება -->
+                <div>
+                    <input type="submit">
+                    <input type="reset">
+                </div>
+            </div> 
+        </center>
+    </form>
+    <hr>
+</body>
+</html>

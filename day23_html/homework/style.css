@@ -5,9 +5,9 @@ body{
     display: inline;
     color: brown;
     background-color: rgb(202, 104, 13);
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
+
 #main{
     margin-left: 70%;
 
